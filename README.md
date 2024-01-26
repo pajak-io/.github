@@ -1,6 +1,6 @@
 # Welcome to Pajak-IO!
 
-![Pajak-IO Banner](/path-to-your-banner-image.png)
+![Pajak-IO Banner](https://pajak.io/wp-content/uploads/2023/04/logo-pajakio-new-23023.svg)
 
 Welcome to the official GitHub page of Pajak-IO, where we make tax handling ✨ special ✨ and streamlined for everyone. Our goal is to simplify the complexity of tax management through technology.
 
